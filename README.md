@@ -10,6 +10,7 @@ My LeetCode solutions in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -33,6 +34,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -49,4 +51,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

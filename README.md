@@ -6,6 +6,7 @@ My LeetCode solutions in Java
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ My LeetCode solutions in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search

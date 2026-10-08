@@ -8,6 +8,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -43,4 +44,9 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0136-single-number) |
@@ -54,5 +55,6 @@ My LeetCode solutions in Java
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

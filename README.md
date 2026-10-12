@@ -13,6 +13,7 @@ My LeetCode solutions in Java
 | [0136-single-number](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -36,6 +37,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanket-ugalmugale/leetcode_solved_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
